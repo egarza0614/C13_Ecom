@@ -18,7 +18,7 @@ This is the back end for an e-commerce site by modifying starter code. Uses Sequ
 
 ### Usage
 
-1. This application is not deployed. You can review a walkthrough video [here].(https://app.screencastify.com/v2/manage/videos/iQ8q0U8P10TcUqpjcSO0)
+1. This application is not deployed. You can review a walkthrough video [here](https://app.screencastify.com/v2/manage/videos/iQ8q0U8P10TcUqpjcSO0).
 
 ## Questions
 * GitHub: [egarza0614](https://github.com/egarza0614)
