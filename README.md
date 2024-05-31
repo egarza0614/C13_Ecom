@@ -9,7 +9,7 @@ This project is licensed under the MIT license. You can view the license [here](
 * [Questions](#questions)
 
 ## Description
-Employee Tracker application, a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.
+This is the back end for an e-commerce site by modifying starter code. Uses Sequelize to interact with a PostgreSQL database.
 
 ### Installation
 
@@ -18,7 +18,7 @@ Employee Tracker application, a command-line application from scratch to manage 
 
 ### Usage
 
-1. This application is not deployed. You can review a walkthrough video [here].(https://drive.google.com/file/d/15XIF7OIm9h46decCMmw1NmdirmBgckn2/view?usp=drive_link)
+1. This application is not deployed. You can review a walkthrough video [here].(https://app.screencastify.com/v2/manage/videos/iQ8q0U8P10TcUqpjcSO0)
 
 ## Questions
 * GitHub: [egarza0614](https://github.com/egarza0614)
